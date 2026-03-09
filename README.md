@@ -1,105 +1,111 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:0070f3&height=220&section=header&text=DAMIAN%20MAXWELL%20🚀&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20BUILD.%20I%20SHIP.%20I%20GRIND.%20💥&descAlignY=60&descColor=ffdd00" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0033,70:ff0080,100:0d0d0d&height=250&section=header&text=DAMIAN%20MAXWELL&fontSize=60&fontColor=ff0080&animation=fadeIn&fontAlignY=38&desc=⚔️%20BUILDING%20IN%20THE%20SHADOWS.%20SHIPPING%20IN%20THE%20LIGHT.%20⚔️&descAlignY=60&descColor=ffffff&stroke=ff0080&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=FF0080&center=true&vCenter=true&width=700&lines=🔥+Welcome+to+my+GitHub+🔥;💻+I+turn+ideas+into+REALITY;🚀+Shipping+code+every+single+day;⚡+Let's+build+something+INSANE;💡+The+grind+never+stops+💡" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=600&color=FF0080&background=0D0D0D00&center=true&vCenter=true&width=750&lines=⚡+Full+Stack+Developer+%7C+AI+Engineer+⚡;🎮+Game+Dev+%7C+Mobile+%7C+Systems+Builder;🔥+I+don't+stop.+I+don't+sleep.+I+SHIP.;🌑+Dark+mode+isn't+a+preference.+It's+a+lifestyle.;⚔️+Every+line+of+code+is+a+power+move." />
 </div>
 
 ---
 
-## ⚡ WHO AM I?
+<div align="center">
+```
+█▀▄ ▄▀█ █▀▄▀█ █ ▄▀█ █▄░█   █▀▄▀█ ▄▀█ ▀▄▀ █░█░█ █▀▀ █░░ █░░
+█▄▀ █▀█ █░▀░█ █ █▀█ █░▀█   █░▀░█ █▀█ █░█ ▀▄▀▄▀ ██▄ █▄▄ █▄▄
+```
+
+</div>
+
+---
+
+## 🌑 WHO IS DAMIAN MAXWELL?
 ```yaml
-🧑 Name       : Damian Maxwell
-🌍 Location   : Building from EVERYWHERE
-🎯 Mission    : Ship fast. Break things. Learn faster.
-🔥 Status     : Currently going CRAZY on new projects
-💬 Ask me     : Anything. Seriously. ANYTHING.
-🤝 Open to    : Collabs, opportunities, cool ideas
+⚔️  Name      : Damian Maxwell
+🌑  Mode      : Always Dark. Always Building.
+💥  Builds    : Web Apps · Mobile Apps · AI/ML · Games · Systems
+🎯  Mission   : Turn wild ideas into real, working, POWERFUL software
+🔥  Status    : Deep in the grind. Projects loading...
+🌸  Anime     : Because only those with taste understand the reference
 ```
 
 ---
 
-## 🛠️ MY ARSENAL 💣
+## ⚔️ TECH ARSENAL — MY WEAPONS OF CHOICE
 
-**Languages — I speak these fluently 🗣️**
+**Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d0d0d)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0080)
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=00B4D8)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0080)
 
-**Frontend — Making the web BEAUTIFUL 🎨**
+**Web & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-ff0080?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=00B4D8)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-**Backend & DB — The engine under the hood 🏎️**
+**AI / ML**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff0080)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ffffff)
 
----
+**Systems & Backend**
 
-## 📊 THE NUMBERS DON'T LIE 📈
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff0080)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamianMaxwell&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianMaxwell&layout=compact&theme=radical&hide_border=true" height="170"/>
-</div>
+**Game Dev**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DamianMaxwell&theme=radical&hide_border=true" width="70%"/>
-</div>
-
----
-
-## 🏆 HALL OF FAME 🏆
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DamianMaxwell&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
-</div>
+![Unity](https://img.shields.io/badge/Unity-ff0080?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0d0d0d?style=for-the-badge&logo=unrealengine&logoColor=ffffff)
 
 ---
 
-## 📈 THE GRIND IS REAL 💪
+## 📊 THE STATS — NO CAP
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamianMaxwell&theme=redical&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DamianMaxwell&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ff0080&icon_color=ff0080&text_color=ffffff&ring_color=ff0080" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianMaxwell&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0080&text_color=ffffff" height="170"/>
 </div>
 
----
-
-## 🤝 LET'S CONNECT — DON'T BE SHY 👀
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DamianMaxwell)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DamianMaxwell)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://DamianMaxwell.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damianmaxwell@gmail.com)
-
+  <img src="https://streak-stats.demolab.com/?user=DamianMaxwell&theme=radical&hide_border=true&background=0d0d0d&ring=ff0080&fire=ff0080&currStreakLabel=ff0080&sideLabels=ffffff&dates=aaaaaa" width="65%"/>
 </div>
 
 ---
 
+## 🏆 HALL OF POWER
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DamianMaxwell&color=ff0080&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DamianMaxwell&theme=radical&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+</div>
+
+---
+
+## 📈 THE GRIND VISUALISED
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamianMaxwell&bg_color=0d0d0d&color=ff0080&line=ff0080&point=ffffff&area=true&area_color=ff0080&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DamianMaxwell&color=ff0080&style=for-the-badge&label=POWER+LEVEL"/>
 </div>
 
 <div align="center">
 
-### 💥 "Code hard. Ship harder. Never stop." 💥
+### ⚔️ *"The strongest don't just write code — they craft worlds."* ⚔️
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070f3,50:7928ca,100:ff0080&height=130&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0033,100:ff0080&height=140&section=footer" width="100%"/>
 </div>
