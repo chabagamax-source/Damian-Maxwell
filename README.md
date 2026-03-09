@@ -1,19 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0033,70:ff0080,100:0d0d0d&height=250&section=header&text=DAMIAN%20MAXWELL&fontSize=60&fontColor=ff0080&animation=fadeIn&fontAlignY=38&desc=⚔️%20BUILDING%20IN%20THE%20SHADOWS.%20SHIPPING%20IN%20THE%20LIGHT.%20⚔️&descAlignY=60&descColor=ffffff&stroke=ff0080&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0033,70:ff0080,100:0d0d0d&height=250&section=header&text=DAMIAN%20MAXWELL&fontSize=60&fontColor=ff0080&animation=fadeIn&fontAlignY=38&desc=⚔️%20BUILDING%20IN%20THE%20SHADOWS.%20SHIPPING%20IN%20THE%20LIGHT.%20⚔️&descAlignY=60&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=600&color=FF0080&background=0D0D0D00&center=true&vCenter=true&width=750&lines=⚡+Full+Stack+Developer+%7C+AI+Engineer+⚡;🎮+Game+Dev+%7C+Mobile+%7C+Systems+Builder;🔥+I+don't+stop.+I+don't+sleep.+I+SHIP.;🌑+Dark+mode+isn't+a+preference.+It's+a+lifestyle.;⚔️+Every+line+of+code+is+a+power+move." />
-</div>
-
----
-
-<div align="center">
-```
-█▀▄ ▄▀█ █▀▄▀█ █ ▄▀█ █▄░█   █▀▄▀█ ▄▀█ ▀▄▀ █░█░█ █▀▀ █░░ █░░
-█▄▀ █▀█ █░▀░█ █ █▀█ █░▀█   █░▀░█ █▀█ █░█ ▀▄▀▄▀ ██▄ █▄▄ █▄▄
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=600&color=FF0080&background=0D0D0D00&center=true&vCenter=true&width=750&lines=⚡+Full+Stack+Developer+%7C+AI+Engineer+⚡;🎮+Game+Dev+%7C+Mobile+%7C+Systems+Builder;🔥+I+don't+stop.+I+don't+sleep.+I+SHIP.;🌑+Dark+mode+isn't+a+preference.+It's+a+lifestyle.;⚔️+Every+line+of+code+is+a+power+move." />
 </div>
 
 ---
@@ -22,15 +12,15 @@
 ```yaml
 ⚔️  Name      : Damian Maxwell
 🌑  Mode      : Always Dark. Always Building.
-💥  Builds    : Web Apps · Mobile Apps · AI/ML · Games · Systems
-🎯  Mission   : Turn wild ideas into real, working, POWERFUL software
+💥  Builds    : Web · Mobile · AI/ML · Games · Systems
+🎯  Mission   : Turn wild ideas into real, POWERFUL software
 🔥  Status    : Deep in the grind. Projects loading...
-🌸  Anime     : Because only those with taste understand the reference
+🌸  Anime     : Because only those with taste understand
 ```
 
 ---
 
-## ⚔️ TECH ARSENAL — MY WEAPONS OF CHOICE
+## ⚔️ TECH ARSENAL
 
 **Languages**
 
@@ -53,7 +43,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff0080)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ffffff)
 
-**Systems & Backend**
+**Backend & Systems**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
@@ -67,31 +57,15 @@
 
 ---
 
-## 📊 THE STATS — NO CAP
+## 📊 THE STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamianMaxwell&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ff0080&icon_color=ff0080&text_color=ffffff&ring_color=ff0080" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DamianMaxwell&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ff0080&icon_color=ff0080&text_color=ffffff" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianMaxwell&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0080&text_color=ffffff" height="170"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=DamianMaxwell&theme=radical&hide_border=true&background=0d0d0d&ring=ff0080&fire=ff0080&currStreakLabel=ff0080&sideLabels=ffffff&dates=aaaaaa" width="65%"/>
-</div>
-
----
-
-## 🏆 HALL OF POWER
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DamianMaxwell&theme=radical&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
-</div>
-
----
-
-## 📈 THE GRIND VISUALISED
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamianMaxwell&bg_color=0d0d0d&color=ff0080&line=ff0080&point=ffffff&area=true&area_color=ff0080&hide_border=true" width="100%"/>
 </div>
 
 ---
